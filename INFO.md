@@ -1,2 +1,2 @@
-﻿то информация из файла INFO
+﻿то информация из файла INFO/
 experiment with amend
